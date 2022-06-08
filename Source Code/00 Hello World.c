@@ -11,4 +11,6 @@ main(void)
     printf("Halo Dunia!\n   ");
     // Cetak "Hello World!"
     printf("Hello World!");
+    // return 0;
+    // Arti return 0 adalah kode utama berhasil di eksekusi ("exit code 0")
 }
